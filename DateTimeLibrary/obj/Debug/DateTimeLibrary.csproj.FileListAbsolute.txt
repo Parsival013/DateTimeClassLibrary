@@ -1,0 +1,6 @@
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\DateTimeLibrary\DateTimeLibrary\bin\Debug\DateTimeLibrary.dll
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\DateTimeLibrary\DateTimeLibrary\bin\Debug\DateTimeLibrary.pdb
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\DateTimeLibrary\DateTimeLibrary\obj\Debug\DateTimeLibrary.csproj.AssemblyReference.cache
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\DateTimeLibrary\DateTimeLibrary\obj\Debug\DateTimeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\DateTimeLibrary\DateTimeLibrary\obj\Debug\DateTimeLibrary.dll
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\DateTimeLibrary\DateTimeLibrary\obj\Debug\DateTimeLibrary.pdb
